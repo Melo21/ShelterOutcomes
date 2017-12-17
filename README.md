@@ -1,3 +1,4 @@
+![Outcomes by Animal](https://github.com/Melo21/ShelterOutcomes/blob/master/topic.jpeg)
 # ShelterOutcomes
 
 Relationships I would like to analyze
