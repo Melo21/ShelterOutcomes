@@ -1,13 +1,14 @@
 # ShelterOutcomes
-Dataset from is from Kaggle
+
 
 
 Relationships I would like to analyze
 <li>Pets by Outcome</li>
-
 <li>Dogs by Outcome</li>
 <li>Cats by Outcome</li>
 
+#Tools I used
+Python Notebook, Dataset from is from Kaggle
 
 
 
